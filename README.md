@@ -1,5 +1,5 @@
-Package: JoeyBigBoyHurricaneTracker
-Type: Package
+Package: JoeyBigBoyHurricaneTracker   <br> 
+Type: Package   <br> 
 Title: Atlantic Hurricane Tracking Package
 Version: 0.1.0
 Authors@R: c(person("Nick", "Gembs", email = "ng334@cornell.edu",
